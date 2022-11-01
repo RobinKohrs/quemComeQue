@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),028,Antigua and Barbuda,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,265,E,Estimated value,2483,10.67,"10,67"
+FBS,Food Balances (2010-),028,Antigua and Barbuda,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,215,E,Estimated value,2483,8.66,"8,66"
+FBS,Food Balances (2010-),028,Antigua and Barbuda,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,138,E,Estimated value,2483,5.56,"5,56"
+FBS,Food Balances (2010-),028,Antigua and Barbuda,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,120,E,Estimated value,2483,4.83,"4,83"
+FBS,Food Balances (2010-),028,Antigua and Barbuda,664,Food supply (kcal/capita/day),S2625,"Fruits, other",2019,2019,kcal/capita/day,105,E,Estimated value,2483,4.23,"4,23"

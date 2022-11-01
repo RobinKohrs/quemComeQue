@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),462,Maldives,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,451,E,Estimated value,2209,20.42,"20,42"
+FBS,Food Balances (2010-),462,Maldives,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,221,E,Estimated value,2209,10,10
+FBS,Food Balances (2010-),462,Maldives,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,182,E,Estimated value,2209,8.24,"8,24"
+FBS,Food Balances (2010-),462,Maldives,664,Food supply (kcal/capita/day),S2763,Pelagic Fish,2019,2019,kcal/capita/day,176,E,Estimated value,2209,7.97,"7,97"
+FBS,Food Balances (2010-),462,Maldives,664,Food supply (kcal/capita/day),S2551,Nuts and products,2019,2019,kcal/capita/day,62,E,Estimated value,2209,2.81,"2,81"

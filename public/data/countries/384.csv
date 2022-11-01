@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),384,Côte d'Ivoire,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,524,E,Estimated value,2838,18.46,"18,46"
+FBS,Food Balances (2010-),384,Côte d'Ivoire,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,394,E,Estimated value,2838,13.88,"13,88"
+FBS,Food Balances (2010-),384,Côte d'Ivoire,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,185,E,Estimated value,2838,6.52,"6,52"
+FBS,Food Balances (2010-),384,Côte d'Ivoire,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,178,E,Estimated value,2838,6.27,"6,27"
+FBS,Food Balances (2010-),384,Côte d'Ivoire,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,151,E,Estimated value,2838,5.32,"5,32"

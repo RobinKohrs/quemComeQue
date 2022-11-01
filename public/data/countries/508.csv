@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),508,Mozambique,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,311,E,Estimated value,2127,14.62,"14,62"
+FBS,Food Balances (2010-),508,Mozambique,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,259,E,Estimated value,2127,12.18,"12,18"
+FBS,Food Balances (2010-),508,Mozambique,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,161,E,Estimated value,2127,7.57,"7,57"
+FBS,Food Balances (2010-),508,Mozambique,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,120,E,Estimated value,2127,5.64,"5,64"
+FBS,Food Balances (2010-),508,Mozambique,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,92,E,Estimated value,2127,4.33,"4,33"

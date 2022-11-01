@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),044,Bahamas,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,311,E,Estimated value,2624,11.85,"11,85"
+FBS,Food Balances (2010-),044,Bahamas,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,226,E,Estimated value,2624,8.61,"8,61"
+FBS,Food Balances (2010-),044,Bahamas,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,208,E,Estimated value,2624,7.93,"7,93"
+FBS,Food Balances (2010-),044,Bahamas,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,199,E,Estimated value,2624,7.58,"7,58"
+FBS,Food Balances (2010-),044,Bahamas,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,192,E,Estimated value,2624,7.32,"7,32"

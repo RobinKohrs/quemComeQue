@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),051,Armenia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,363,E,Estimated value,3019,12.02,"12,02"
+FBS,Food Balances (2010-),051,Armenia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,301,E,Estimated value,3019,9.97,"9,97"
+FBS,Food Balances (2010-),051,Armenia,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,185,E,Estimated value,3019,6.13,"6,13"
+FBS,Food Balances (2010-),051,Armenia,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,181,E,Estimated value,3019,6,6
+FBS,Food Balances (2010-),051,Armenia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,178,E,Estimated value,3019,5.9,"5,9"

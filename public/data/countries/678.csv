@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),678,Sao Tome and Principe,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,339,E,Estimated value,2400,14.12,"14,12"
+FBS,Food Balances (2010-),678,Sao Tome and Principe,664,Food supply (kcal/capita/day),S2616,Plantains,2019,2019,kcal/capita/day,326,E,Estimated value,2400,13.58,"13,58"
+FBS,Food Balances (2010-),678,Sao Tome and Principe,664,Food supply (kcal/capita/day),S2560,Coconuts - Incl Copra,2019,2019,kcal/capita/day,259,E,Estimated value,2400,10.79,"10,79"
+FBS,Food Balances (2010-),678,Sao Tome and Principe,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,137,E,Estimated value,2400,5.71,"5,71"
+FBS,Food Balances (2010-),678,Sao Tome and Principe,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,76,E,Estimated value,2400,3.17,"3,17"

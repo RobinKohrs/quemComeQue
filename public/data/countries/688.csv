@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),688,Serbia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,292,E,Estimated value,2860,10.21,"10,21"
+FBS,Food Balances (2010-),688,Serbia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,284,E,Estimated value,2860,9.93,"9,93"
+FBS,Food Balances (2010-),688,Serbia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,252,E,Estimated value,2860,8.81,"8,81"
+FBS,Food Balances (2010-),688,Serbia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,240,E,Estimated value,2860,8.39,"8,39"
+FBS,Food Balances (2010-),688,Serbia,664,Food supply (kcal/capita/day),S2625,"Fruits, other",2019,2019,kcal/capita/day,81,E,Estimated value,2860,2.83,"2,83"

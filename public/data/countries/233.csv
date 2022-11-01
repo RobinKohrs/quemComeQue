@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),233,Estonia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,476,E,Estimated value,3162,15.05,"15,05"
+FBS,Food Balances (2010-),233,Estonia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,186,E,Estimated value,3162,5.88,"5,88"
+FBS,Food Balances (2010-),233,Estonia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,177,E,Estimated value,3162,5.6,"5,6"
+FBS,Food Balances (2010-),233,Estonia,664,Food supply (kcal/capita/day),S2658,"Beverages, Alcoholic",2019,2019,kcal/capita/day,144,E,Estimated value,3162,4.55,"4,55"
+FBS,Food Balances (2010-),233,Estonia,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,122,E,Estimated value,3162,3.86,"3,86"

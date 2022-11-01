@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),795,Turkmenistan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,216,E,Estimated value,2879,7.5,"7,5"
+FBS,Food Balances (2010-),795,Turkmenistan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,165,E,Estimated value,2879,5.73,"5,73"
+FBS,Food Balances (2010-),795,Turkmenistan,664,Food supply (kcal/capita/day),S2732,Mutton & Goat Meat,2019,2019,kcal/capita/day,146,E,Estimated value,2879,5.07,"5,07"
+FBS,Food Balances (2010-),795,Turkmenistan,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,140,E,Estimated value,2879,4.86,"4,86"
+FBS,Food Balances (2010-),795,Turkmenistan,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,132,E,Estimated value,2879,4.58,"4,58"

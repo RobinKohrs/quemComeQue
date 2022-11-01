@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),417,Kyrgyzstan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,333,E,Estimated value,2724,12.22,"12,22"
+FBS,Food Balances (2010-),417,Kyrgyzstan,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,207,E,Estimated value,2724,7.6,"7,6"
+FBS,Food Balances (2010-),417,Kyrgyzstan,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,171,E,Estimated value,2724,6.28,"6,28"
+FBS,Food Balances (2010-),417,Kyrgyzstan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,131,E,Estimated value,2724,4.81,"4,81"
+FBS,Food Balances (2010-),417,Kyrgyzstan,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,104,E,Estimated value,2724,3.82,"3,82"

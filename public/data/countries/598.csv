@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),598,Papua New Guinea,664,Food supply (kcal/capita/day),S2615,Bananas,2019,2019,kcal/capita/day,240,E,Estimated value,2240,10.71,"10,71"
+FBS,Food Balances (2010-),598,Papua New Guinea,664,Food supply (kcal/capita/day),S2533,Sweet potatoes,2019,2019,kcal/capita/day,208,E,Estimated value,2240,9.29,"9,29"
+FBS,Food Balances (2010-),598,Papua New Guinea,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,181,E,Estimated value,2240,8.08,"8,08"
+FBS,Food Balances (2010-),598,Papua New Guinea,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,153,E,Estimated value,2240,6.83,"6,83"
+FBS,Food Balances (2010-),598,Papua New Guinea,664,Food supply (kcal/capita/day),S2625,"Fruits, other",2019,2019,kcal/capita/day,147,E,Estimated value,2240,6.56,"6,56"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),498,Republic of Moldova,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,382,E,Estimated value,2686,14.22,"14,22"
+FBS,Food Balances (2010-),498,Republic of Moldova,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,214,E,Estimated value,2686,7.97,"7,97"
+FBS,Food Balances (2010-),498,Republic of Moldova,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,174,E,Estimated value,2686,6.48,"6,48"
+FBS,Food Balances (2010-),498,Republic of Moldova,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,144,E,Estimated value,2686,5.36,"5,36"
+FBS,Food Balances (2010-),498,Republic of Moldova,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,115,E,Estimated value,2686,4.28,"4,28"

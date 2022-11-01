@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),120,Cameroon,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,314,E,Estimated value,2771,11.33,"11,33"
+FBS,Food Balances (2010-),120,Cameroon,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,290,E,Estimated value,2771,10.47,"10,47"
+FBS,Food Balances (2010-),120,Cameroon,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,216,E,Estimated value,2771,7.8,"7,8"
+FBS,Food Balances (2010-),120,Cameroon,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,212,E,Estimated value,2771,7.65,"7,65"
+FBS,Food Balances (2010-),120,Cameroon,664,Food supply (kcal/capita/day),S2616,Plantains,2019,2019,kcal/capita/day,134,E,Estimated value,2771,4.84,"4,84"

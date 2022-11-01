@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),792,Türkiye,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,338,E,Estimated value,3732,9.06,"9,06"
+FBS,Food Balances (2010-),792,Türkiye,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,298,E,Estimated value,3732,7.98,"7,98"
+FBS,Food Balances (2010-),792,Türkiye,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,242,E,Estimated value,3732,6.48,"6,48"
+FBS,Food Balances (2010-),792,Türkiye,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,141,E,Estimated value,3732,3.78,"3,78"
+FBS,Food Balances (2010-),792,Türkiye,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,127,E,Estimated value,3732,3.4,"3,4"

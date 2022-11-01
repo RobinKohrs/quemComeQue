@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),196,Cyprus,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,233,E,Estimated value,3040,7.66,"7,66"
+FBS,Food Balances (2010-),196,Cyprus,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,212,E,Estimated value,3040,6.97,"6,97"
+FBS,Food Balances (2010-),196,Cyprus,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,184,E,Estimated value,3040,6.05,"6,05"
+FBS,Food Balances (2010-),196,Cyprus,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,167,E,Estimated value,3040,5.49,"5,49"
+FBS,Food Balances (2010-),196,Cyprus,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,132,E,Estimated value,3040,4.34,"4,34"

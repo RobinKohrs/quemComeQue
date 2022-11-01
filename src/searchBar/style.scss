@@ -1,0 +1,70 @@
+input,
+span {
+	display: block;
+	font-size: 1rem;
+	padding: 0.45rem 0.5rem 0.4rem;
+	width: 100%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+input {
+	border-radius: 0.2rem;
+	outline: none;
+	padding-right: calc(0.6rem + 48px);
+	border: none;
+	background-color: rgba(0, 0, 0, 0.1);
+	color: #343434;
+	font-weight: bold;
+	// border: 1px solid rgba(178, 187, 191, 0.5);
+
+	&:hover {
+		background-color: rgba(0, 0, 0, 0.15);
+	}
+
+	&::-ms-clear {
+		display: none;
+	}
+}
+
+::placeholder {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+span {
+	display: block;
+	background-color: rgba(0, 0, 0, 0.04);
+	cursor: pointer;
+
+	&:hover,
+	&.selected {
+		background-color: rgba(0, 0, 0, 0.15);
+	}
+
+	&:first-child {
+		border-radius: 0.2rem 0.2rem 0 0;
+	}
+
+	&:last-child {
+		border-radius: 0 0 0.2rem 0.2rem;
+	}
+}
+
+.search {
+	i,
+	button {
+		position: absolute;
+		height: 24px;
+		width: 24px;
+		top: 50%;
+		right: 0;
+		transform: translateY(-50%);
+	}
+}
+
+.suggestions {
+	border-radius: 0.2rem;
+	z-index: 4;
+	background-color: #ffffff;
+	box-shadow: 2px 4px 2px rgba(0, 0, 0, 0.05), 2px 4px 4px rgba(0, 0, 0, 0.05);
+}

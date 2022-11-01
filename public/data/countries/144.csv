@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),144,Sri Lanka,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,325,E,Estimated value,2719,11.95,"11,95"
+FBS,Food Balances (2010-),144,Sri Lanka,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,278,E,Estimated value,2719,10.22,"10,22"
+FBS,Food Balances (2010-),144,Sri Lanka,664,Food supply (kcal/capita/day),S2560,Coconuts - Incl Copra,2019,2019,kcal/capita/day,254,E,Estimated value,2719,9.34,"9,34"
+FBS,Food Balances (2010-),144,Sri Lanka,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,88,E,Estimated value,2719,3.24,"3,24"
+FBS,Food Balances (2010-),144,Sri Lanka,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,83,E,Estimated value,2719,3.05,"3,05"

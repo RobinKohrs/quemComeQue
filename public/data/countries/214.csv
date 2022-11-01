@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),214,Dominican Republic,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,362,E,Estimated value,2967,12.2,"12,2"
+FBS,Food Balances (2010-),214,Dominican Republic,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,297,E,Estimated value,2967,10.01,"10,01"
+FBS,Food Balances (2010-),214,Dominican Republic,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,206,E,Estimated value,2967,6.94,"6,94"
+FBS,Food Balances (2010-),214,Dominican Republic,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,180,E,Estimated value,2967,6.07,"6,07"
+FBS,Food Balances (2010-),214,Dominican Republic,664,Food supply (kcal/capita/day),S2616,Plantains,2019,2019,kcal/capita/day,177,E,Estimated value,2967,5.97,"5,97"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),659,Saint Kitts and Nevis,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,351,E,Estimated value,2555,13.74,"13,74"
+FBS,Food Balances (2010-),659,Saint Kitts and Nevis,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,233,E,Estimated value,2555,9.12,"9,12"
+FBS,Food Balances (2010-),659,Saint Kitts and Nevis,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,174,E,Estimated value,2555,6.81,"6,81"
+FBS,Food Balances (2010-),659,Saint Kitts and Nevis,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,151,E,Estimated value,2555,5.91,"5,91"
+FBS,Food Balances (2010-),659,Saint Kitts and Nevis,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,130,E,Estimated value,2555,5.09,"5,09"

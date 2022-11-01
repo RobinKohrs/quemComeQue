@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),643,Russian Federation,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,345,E,Estimated value,3359,10.27,"10,27"
+FBS,Food Balances (2010-),643,Russian Federation,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,271,E,Estimated value,3359,8.07,"8,07"
+FBS,Food Balances (2010-),643,Russian Federation,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,250,E,Estimated value,3359,7.44,"7,44"
+FBS,Food Balances (2010-),643,Russian Federation,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,164,E,Estimated value,3359,4.88,"4,88"
+FBS,Food Balances (2010-),643,Russian Federation,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,121,E,Estimated value,3359,3.6,"3,6"

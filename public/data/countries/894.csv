@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),894,Zambia,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,353,E,Estimated value,2261,15.61,"15,61"
+FBS,Food Balances (2010-),894,Zambia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,115,E,Estimated value,2261,5.09,"5,09"
+FBS,Food Balances (2010-),894,Zambia,664,Food supply (kcal/capita/day),S2552,Groundnuts,2019,2019,kcal/capita/day,85,E,Estimated value,2261,3.76,"3,76"
+FBS,Food Balances (2010-),894,Zambia,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,72,E,Estimated value,2261,3.18,"3,18"
+FBS,Food Balances (2010-),894,Zambia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,64,E,Estimated value,2261,2.83,"2,83"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),578,Norway,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,306,E,Estimated value,3449,8.87,"8,87"
+FBS,Food Balances (2010-),578,Norway,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,260,E,Estimated value,3449,7.54,"7,54"
+FBS,Food Balances (2010-),578,Norway,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,246,E,Estimated value,3449,7.13,"7,13"
+FBS,Food Balances (2010-),578,Norway,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,139,E,Estimated value,3449,4.03,"4,03"
+FBS,Food Balances (2010-),578,Norway,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,119,E,Estimated value,3449,3.45,"3,45"

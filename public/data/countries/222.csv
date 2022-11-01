@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),222,El Salvador,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,402,E,Estimated value,2736,14.69,"14,69"
+FBS,Food Balances (2010-),222,El Salvador,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,365,E,Estimated value,2736,13.34,"13,34"
+FBS,Food Balances (2010-),222,El Salvador,664,Food supply (kcal/capita/day),S2546,Beans,2019,2019,kcal/capita/day,156,E,Estimated value,2736,5.7,"5,7"
+FBS,Food Balances (2010-),222,El Salvador,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,156,E,Estimated value,2736,5.7,"5,7"
+FBS,Food Balances (2010-),222,El Salvador,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,108,E,Estimated value,2736,3.95,"3,95"

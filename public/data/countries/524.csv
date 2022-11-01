@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),524,Nepal,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,403,E,Estimated value,2881,13.99,"13,99"
+FBS,Food Balances (2010-),524,Nepal,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,312,E,Estimated value,2881,10.83,"10,83"
+FBS,Food Balances (2010-),524,Nepal,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,160,E,Estimated value,2881,5.55,"5,55"
+FBS,Food Balances (2010-),524,Nepal,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,105,E,Estimated value,2881,3.64,"3,64"
+FBS,Food Balances (2010-),524,Nepal,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,103,E,Estimated value,2881,3.58,"3,58"

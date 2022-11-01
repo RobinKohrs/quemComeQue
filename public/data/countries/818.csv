@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),818,Egypt,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,568,E,Estimated value,3304,17.19,"17,19"
+FBS,Food Balances (2010-),818,Egypt,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,364,E,Estimated value,3304,11.02,"11,02"
+FBS,Food Balances (2010-),818,Egypt,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,261,E,Estimated value,3304,7.9,"7,9"
+FBS,Food Balances (2010-),818,Egypt,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,78,E,Estimated value,3304,2.36,"2,36"
+FBS,Food Balances (2010-),818,Egypt,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,65,E,Estimated value,3304,1.97,"1,97"

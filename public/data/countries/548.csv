@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),548,Vanuatu,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,435,E,Estimated value,2606,16.69,"16,69"
+FBS,Food Balances (2010-),548,Vanuatu,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,427,E,Estimated value,2606,16.39,"16,39"
+FBS,Food Balances (2010-),548,Vanuatu,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,388,E,Estimated value,2606,14.89,"14,89"
+FBS,Food Balances (2010-),548,Vanuatu,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,136,E,Estimated value,2606,5.22,"5,22"
+FBS,Food Balances (2010-),548,Vanuatu,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,109,E,Estimated value,2606,4.18,"4,18"

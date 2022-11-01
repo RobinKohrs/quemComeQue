@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),428,Latvia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,291,E,Estimated value,3253,8.95,"8,95"
+FBS,Food Balances (2010-),428,Latvia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,286,E,Estimated value,3253,8.79,"8,79"
+FBS,Food Balances (2010-),428,Latvia,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,206,E,Estimated value,3253,6.33,"6,33"
+FBS,Food Balances (2010-),428,Latvia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,204,E,Estimated value,3253,6.27,"6,27"
+FBS,Food Balances (2010-),428,Latvia,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,187,E,Estimated value,3253,5.75,"5,75"

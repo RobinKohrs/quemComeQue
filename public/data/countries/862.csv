@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),862,Venezuela (Bolivarian Republic of),664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,277,E,Estimated value,2200,12.59,"12,59"
+FBS,Food Balances (2010-),862,Venezuela (Bolivarian Republic of),664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,254,E,Estimated value,2200,11.55,"11,55"
+FBS,Food Balances (2010-),862,Venezuela (Bolivarian Republic of),664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,241,E,Estimated value,2200,10.95,"10,95"
+FBS,Food Balances (2010-),862,Venezuela (Bolivarian Republic of),664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,224,E,Estimated value,2200,10.18,"10,18"
+FBS,Food Balances (2010-),862,Venezuela (Bolivarian Republic of),664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,112,E,Estimated value,2200,5.09,"5,09"

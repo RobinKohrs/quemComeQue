@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),148,Chad,664,Food supply (kcal/capita/day),S2517,Millet and products,2019,2019,kcal/capita/day,304,E,Estimated value,2272,13.38,"13,38"
+FBS,Food Balances (2010-),148,Chad,664,Food supply (kcal/capita/day),S2520,"Cereals, Other",2019,2019,kcal/capita/day,206,E,Estimated value,2272,9.07,"9,07"
+FBS,Food Balances (2010-),148,Chad,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,188,E,Estimated value,2272,8.27,"8,27"
+FBS,Food Balances (2010-),148,Chad,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,119,E,Estimated value,2272,5.24,"5,24"
+FBS,Food Balances (2010-),148,Chad,664,Food supply (kcal/capita/day),S2561,Sesame seed,2019,2019,kcal/capita/day,115,E,Estimated value,2272,5.06,"5,06"

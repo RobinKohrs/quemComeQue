@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),270,Gambia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,367,E,Estimated value,2478,14.81,"14,81"
+FBS,Food Balances (2010-),270,Gambia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,357,E,Estimated value,2478,14.41,"14,41"
+FBS,Food Balances (2010-),270,Gambia,664,Food supply (kcal/capita/day),S2552,Groundnuts,2019,2019,kcal/capita/day,192,E,Estimated value,2478,7.75,"7,75"
+FBS,Food Balances (2010-),270,Gambia,664,Food supply (kcal/capita/day),S2572,Groundnut Oil,2019,2019,kcal/capita/day,144,E,Estimated value,2478,5.81,"5,81"
+FBS,Food Balances (2010-),270,Gambia,664,Food supply (kcal/capita/day),S2517,Millet and products,2019,2019,kcal/capita/day,96,E,Estimated value,2478,3.87,"3,87"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),152,Chile,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,415,E,Estimated value,3080,13.47,"13,47"
+FBS,Food Balances (2010-),152,Chile,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,238,E,Estimated value,3080,7.73,"7,73"
+FBS,Food Balances (2010-),152,Chile,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,201,E,Estimated value,3080,6.53,"6,53"
+FBS,Food Balances (2010-),152,Chile,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,166,E,Estimated value,3080,5.39,"5,39"
+FBS,Food Balances (2010-),152,Chile,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,150,E,Estimated value,3080,4.87,"4,87"

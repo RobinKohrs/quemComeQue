@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),191,Croatia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,368,E,Estimated value,3123,11.78,"11,78"
+FBS,Food Balances (2010-),191,Croatia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,335,E,Estimated value,3123,10.73,"10,73"
+FBS,Food Balances (2010-),191,Croatia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,220,E,Estimated value,3123,7.04,"7,04"
+FBS,Food Balances (2010-),191,Croatia,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,133,E,Estimated value,3123,4.26,"4,26"
+FBS,Food Balances (2010-),191,Croatia,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,116,E,Estimated value,3123,3.71,"3,71"

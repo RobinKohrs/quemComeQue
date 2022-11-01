@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),288,Ghana,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,418,E,Estimated value,3112,13.43,"13,43"
+FBS,Food Balances (2010-),288,Ghana,664,Food supply (kcal/capita/day),S2616,Plantains,2019,2019,kcal/capita/day,358,E,Estimated value,3112,11.5,"11,5"
+FBS,Food Balances (2010-),288,Ghana,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,288,E,Estimated value,3112,9.25,"9,25"
+FBS,Food Balances (2010-),288,Ghana,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,226,E,Estimated value,3112,7.26,"7,26"
+FBS,Food Balances (2010-),288,Ghana,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,124,E,Estimated value,3112,3.98,"3,98"

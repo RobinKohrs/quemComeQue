@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),004,Afghanistan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,166,E,Estimated value,2271,7.31,"7,31"
+FBS,Food Balances (2010-),004,Afghanistan,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,126,E,Estimated value,2271,5.55,"5,55"
+FBS,Food Balances (2010-),004,Afghanistan,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,108,E,Estimated value,2271,4.76,"4,76"
+FBS,Food Balances (2010-),004,Afghanistan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,101,E,Estimated value,2271,4.45,"4,45"
+FBS,Food Balances (2010-),004,Afghanistan,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,51,E,Estimated value,2271,2.25,"2,25"

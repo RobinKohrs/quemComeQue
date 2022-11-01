@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),662,Saint Lucia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,380,E,Estimated value,2629,14.45,"14,45"
+FBS,Food Balances (2010-),662,Saint Lucia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,169,E,Estimated value,2629,6.43,"6,43"
+FBS,Food Balances (2010-),662,Saint Lucia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,151,E,Estimated value,2629,5.74,"5,74"
+FBS,Food Balances (2010-),662,Saint Lucia,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,129,E,Estimated value,2629,4.91,"4,91"
+FBS,Food Balances (2010-),662,Saint Lucia,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,100,E,Estimated value,2629,3.8,"3,8"

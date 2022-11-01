@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),426,Lesotho,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,177,E,Estimated value,2187,8.09,"8,09"
+FBS,Food Balances (2010-),426,Lesotho,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,106,E,Estimated value,2187,4.85,"4,85"
+FBS,Food Balances (2010-),426,Lesotho,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,104,E,Estimated value,2187,4.76,"4,76"
+FBS,Food Balances (2010-),426,Lesotho,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,93,E,Estimated value,2187,4.25,"4,25"
+FBS,Food Balances (2010-),426,Lesotho,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,80,E,Estimated value,2187,3.66,"3,66"

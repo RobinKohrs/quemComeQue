@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),887,Yemen,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,235,E,Estimated value,2017,11.65,"11,65"
+FBS,Food Balances (2010-),887,Yemen,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,196,E,Estimated value,2017,9.72,"9,72"
+FBS,Food Balances (2010-),887,Yemen,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,142,E,Estimated value,2017,7.04,"7,04"
+FBS,Food Balances (2010-),887,Yemen,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,126,E,Estimated value,2017,6.25,"6,25"
+FBS,Food Balances (2010-),887,Yemen,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,61,E,Estimated value,2017,3.02,"3,02"

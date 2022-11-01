@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),344,"China, Hong Kong SAR",664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,391,E,Estimated value,3236,12.08,"12,08"
+FBS,Food Balances (2010-),344,"China, Hong Kong SAR",664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,375,E,Estimated value,3236,11.59,"11,59"
+FBS,Food Balances (2010-),344,"China, Hong Kong SAR",664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,252,E,Estimated value,3236,7.79,"7,79"
+FBS,Food Balances (2010-),344,"China, Hong Kong SAR",664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,214,E,Estimated value,3236,6.61,"6,61"
+FBS,Food Balances (2010-),344,"China, Hong Kong SAR",664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,176,E,Estimated value,3236,5.44,"5,44"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),158,"China, Taiwan Province of",664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,413,E,Estimated value,2955,13.98,"13,98"
+FBS,Food Balances (2010-),158,"China, Taiwan Province of",664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,390,E,Estimated value,2955,13.2,"13,2"
+FBS,Food Balances (2010-),158,"China, Taiwan Province of",664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,271,E,Estimated value,2955,9.17,"9,17"
+FBS,Food Balances (2010-),158,"China, Taiwan Province of",664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,253,E,Estimated value,2955,8.56,"8,56"
+FBS,Food Balances (2010-),158,"China, Taiwan Province of",664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,146,E,Estimated value,2955,4.94,"4,94"

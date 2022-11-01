@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),480,Mauritius,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,401,E,Estimated value,3034,13.22,"13,22"
+FBS,Food Balances (2010-),480,Mauritius,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,338,E,Estimated value,3034,11.14,"11,14"
+FBS,Food Balances (2010-),480,Mauritius,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,285,E,Estimated value,3034,9.39,"9,39"
+FBS,Food Balances (2010-),480,Mauritius,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,161,E,Estimated value,3034,5.31,"5,31"
+FBS,Food Balances (2010-),480,Mauritius,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,143,E,Estimated value,3034,4.71,"4,71"

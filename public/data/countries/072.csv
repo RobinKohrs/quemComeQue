@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),072,Botswana,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,408,E,Estimated value,2567,15.89,"15,89"
+FBS,Food Balances (2010-),072,Botswana,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,230,E,Estimated value,2567,8.96,"8,96"
+FBS,Food Balances (2010-),072,Botswana,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,216,E,Estimated value,2567,8.41,"8,41"
+FBS,Food Balances (2010-),072,Botswana,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,214,E,Estimated value,2567,8.34,"8,34"
+FBS,Food Balances (2010-),072,Botswana,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,105,E,Estimated value,2567,4.09,"4,09"

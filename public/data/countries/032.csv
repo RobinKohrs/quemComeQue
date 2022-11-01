@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),032,Argentina,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,370,E,Estimated value,3303,11.2,"11,2"
+FBS,Food Balances (2010-),032,Argentina,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,301,E,Estimated value,3303,9.11,"9,11"
+FBS,Food Balances (2010-),032,Argentina,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,262,E,Estimated value,3303,7.93,"7,93"
+FBS,Food Balances (2010-),032,Argentina,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,224,E,Estimated value,3303,6.78,"6,78"
+FBS,Food Balances (2010-),032,Argentina,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,194,E,Estimated value,3303,5.87,"5,87"

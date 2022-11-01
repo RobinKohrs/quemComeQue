@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),484,Mexico,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,340,E,Estimated value,3164,10.75,"10,75"
+FBS,Food Balances (2010-),484,Mexico,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,241,E,Estimated value,3164,7.62,"7,62"
+FBS,Food Balances (2010-),484,Mexico,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,169,E,Estimated value,3164,5.34,"5,34"
+FBS,Food Balances (2010-),484,Mexico,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,165,E,Estimated value,3164,5.21,"5,21"
+FBS,Food Balances (2010-),484,Mexico,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,135,E,Estimated value,3164,4.27,"4,27"

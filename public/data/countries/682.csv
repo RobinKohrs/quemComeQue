@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),682,Saudi Arabia,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,385,E,Estimated value,3301,11.66,"11,66"
+FBS,Food Balances (2010-),682,Saudi Arabia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,294,E,Estimated value,3301,8.91,"8,91"
+FBS,Food Balances (2010-),682,Saudi Arabia,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,275,E,Estimated value,3301,8.33,"8,33"
+FBS,Food Balances (2010-),682,Saudi Arabia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,270,E,Estimated value,3301,8.18,"8,18"
+FBS,Food Balances (2010-),682,Saudi Arabia,664,Food supply (kcal/capita/day),S2619,Dates,2019,2019,kcal/capita/day,167,E,Estimated value,3301,5.06,"5,06"

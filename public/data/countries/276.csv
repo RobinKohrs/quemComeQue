@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),276,Germany,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,375,E,Estimated value,3558,10.54,"10,54"
+FBS,Food Balances (2010-),276,Germany,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,358,E,Estimated value,3558,10.06,"10,06"
+FBS,Food Balances (2010-),276,Germany,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,196,E,Estimated value,3558,5.51,"5,51"
+FBS,Food Balances (2010-),276,Germany,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,129,E,Estimated value,3558,3.63,"3,63"
+FBS,Food Balances (2010-),276,Germany,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,125,E,Estimated value,3558,3.51,"3,51"

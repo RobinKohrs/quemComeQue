@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),670,Saint Vincent and the Grenadines,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,345,E,Estimated value,2942,11.73,"11,73"
+FBS,Food Balances (2010-),670,Saint Vincent and the Grenadines,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,259,E,Estimated value,2942,8.8,"8,8"
+FBS,Food Balances (2010-),670,Saint Vincent and the Grenadines,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,176,E,Estimated value,2942,5.98,"5,98"
+FBS,Food Balances (2010-),670,Saint Vincent and the Grenadines,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,143,E,Estimated value,2942,4.86,"4,86"
+FBS,Food Balances (2010-),670,Saint Vincent and the Grenadines,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,118,E,Estimated value,2942,4.01,"4,01"

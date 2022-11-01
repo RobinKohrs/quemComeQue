@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),404,Kenya,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,284,E,Estimated value,2199,12.91,"12,91"
+FBS,Food Balances (2010-),404,Kenya,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,168,E,Estimated value,2199,7.64,"7,64"
+FBS,Food Balances (2010-),404,Kenya,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,152,E,Estimated value,2199,6.91,"6,91"
+FBS,Food Balances (2010-),404,Kenya,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,144,E,Estimated value,2199,6.55,"6,55"
+FBS,Food Balances (2010-),404,Kenya,664,Food supply (kcal/capita/day),S2546,Beans,2019,2019,kcal/capita/day,114,E,Estimated value,2199,5.18,"5,18"

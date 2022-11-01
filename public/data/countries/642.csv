@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),642,Romania,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,416,E,Estimated value,3585,11.6,"11,6"
+FBS,Food Balances (2010-),642,Romania,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,274,E,Estimated value,3585,7.64,"7,64"
+FBS,Food Balances (2010-),642,Romania,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,263,E,Estimated value,3585,7.34,"7,34"
+FBS,Food Balances (2010-),642,Romania,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,251,E,Estimated value,3585,7,7
+FBS,Food Balances (2010-),642,Romania,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,180,E,Estimated value,3585,5.02,"5,02"

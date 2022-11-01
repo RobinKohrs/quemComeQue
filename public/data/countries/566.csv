@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),566,Nigeria,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,304,E,Estimated value,2567,11.84,"11,84"
+FBS,Food Balances (2010-),566,Nigeria,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,283,E,Estimated value,2567,11.02,"11,02"
+FBS,Food Balances (2010-),566,Nigeria,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,271,E,Estimated value,2567,10.56,"10,56"
+FBS,Food Balances (2010-),566,Nigeria,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,231,E,Estimated value,2567,9,9
+FBS,Food Balances (2010-),566,Nigeria,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,195,E,Estimated value,2567,7.6,"7,6"

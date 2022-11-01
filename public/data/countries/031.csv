@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),031,Azerbaijan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,254,E,Estimated value,3149,8.07,"8,07"
+FBS,Food Balances (2010-),031,Azerbaijan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,189,E,Estimated value,3149,6,6
+FBS,Food Balances (2010-),031,Azerbaijan,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,134,E,Estimated value,3149,4.26,"4,26"
+FBS,Food Balances (2010-),031,Azerbaijan,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,90,E,Estimated value,3149,2.86,"2,86"
+FBS,Food Balances (2010-),031,Azerbaijan,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,78,E,Estimated value,3149,2.48,"2,48"

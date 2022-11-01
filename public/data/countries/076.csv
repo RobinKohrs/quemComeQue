@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),076,Brazil,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,378,E,Estimated value,3249,11.63,"11,63"
+FBS,Food Balances (2010-),076,Brazil,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,326,E,Estimated value,3249,10.03,"10,03"
+FBS,Food Balances (2010-),076,Brazil,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,261,E,Estimated value,3249,8.03,"8,03"
+FBS,Food Balances (2010-),076,Brazil,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,243,E,Estimated value,3249,7.48,"7,48"
+FBS,Food Balances (2010-),076,Brazil,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,237,E,Estimated value,3249,7.29,"7,29"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),430,Liberia,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,335,E,Estimated value,2147,15.6,"15,6"
+FBS,Food Balances (2010-),430,Liberia,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,229,E,Estimated value,2147,10.67,"10,67"
+FBS,Food Balances (2010-),430,Liberia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,95,E,Estimated value,2147,4.42,"4,42"
+FBS,Food Balances (2010-),430,Liberia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,60,E,Estimated value,2147,2.79,"2,79"
+FBS,Food Balances (2010-),430,Liberia,664,Food supply (kcal/capita/day),S2615,Bananas,2019,2019,kcal/capita/day,43,E,Estimated value,2147,2,2

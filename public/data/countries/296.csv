@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),296,Kiribati,664,Food supply (kcal/capita/day),S2560,Coconuts - Incl Copra,2019,2019,kcal/capita/day,637,E,Estimated value,3070,20.75,"20,75"
+FBS,Food Balances (2010-),296,Kiribati,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,504,E,Estimated value,3070,16.42,"16,42"
+FBS,Food Balances (2010-),296,Kiribati,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,422,E,Estimated value,3070,13.75,"13,75"
+FBS,Food Balances (2010-),296,Kiribati,664,Food supply (kcal/capita/day),S2578,Coconut Oil,2019,2019,kcal/capita/day,263,E,Estimated value,3070,8.57,"8,57"
+FBS,Food Balances (2010-),296,Kiribati,664,Food supply (kcal/capita/day),S2763,Pelagic Fish,2019,2019,kcal/capita/day,129,E,Estimated value,3070,4.2,"4,2"

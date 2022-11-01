@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),328,Guyana,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,383,E,Estimated value,2945,13.01,"13,01"
+FBS,Food Balances (2010-),328,Guyana,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,244,E,Estimated value,2945,8.29,"8,29"
+FBS,Food Balances (2010-),328,Guyana,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,208,E,Estimated value,2945,7.06,"7,06"
+FBS,Food Balances (2010-),328,Guyana,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,179,E,Estimated value,2945,6.08,"6,08"
+FBS,Food Balances (2010-),328,Guyana,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,173,E,Estimated value,2945,5.87,"5,87"

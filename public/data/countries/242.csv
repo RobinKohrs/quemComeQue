@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),242,Fiji,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,426,E,Estimated value,2856,14.92,"14,92"
+FBS,Food Balances (2010-),242,Fiji,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,219,E,Estimated value,2856,7.67,"7,67"
+FBS,Food Balances (2010-),242,Fiji,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,166,E,Estimated value,2856,5.81,"5,81"
+FBS,Food Balances (2010-),242,Fiji,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,143,E,Estimated value,2856,5.01,"5,01"
+FBS,Food Balances (2010-),242,Fiji,664,Food supply (kcal/capita/day),S2543,"Sweeteners, Other",2019,2019,kcal/capita/day,128,E,Estimated value,2856,4.48,"4,48"

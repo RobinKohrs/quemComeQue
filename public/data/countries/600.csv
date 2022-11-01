@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),600,Paraguay,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,372,E,Estimated value,2769,13.43,"13,43"
+FBS,Food Balances (2010-),600,Paraguay,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,257,E,Estimated value,2769,9.28,"9,28"
+FBS,Food Balances (2010-),600,Paraguay,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,237,E,Estimated value,2769,8.56,"8,56"
+FBS,Food Balances (2010-),600,Paraguay,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,216,E,Estimated value,2769,7.8,"7,8"
+FBS,Food Balances (2010-),600,Paraguay,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,114,E,Estimated value,2769,4.12,"4,12"

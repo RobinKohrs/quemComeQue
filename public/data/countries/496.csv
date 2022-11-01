@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),496,Mongolia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,451,E,Estimated value,2878,15.67,"15,67"
+FBS,Food Balances (2010-),496,Mongolia,664,Food supply (kcal/capita/day),S2732,Mutton & Goat Meat,2019,2019,kcal/capita/day,329,E,Estimated value,2878,11.43,"11,43"
+FBS,Food Balances (2010-),496,Mongolia,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,147,E,Estimated value,2878,5.11,"5,11"
+FBS,Food Balances (2010-),496,Mongolia,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,122,E,Estimated value,2878,4.24,"4,24"
+FBS,Food Balances (2010-),496,Mongolia,664,Food supply (kcal/capita/day),S2736,"Offals, Edible",2019,2019,kcal/capita/day,94,E,Estimated value,2878,3.27,"3,27"

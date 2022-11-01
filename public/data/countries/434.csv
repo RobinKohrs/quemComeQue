@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),434,Libya,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,295,E,Estimated value,3141,9.39,"9,39"
+FBS,Food Balances (2010-),434,Libya,664,Food supply (kcal/capita/day),S2582,Maize Germ Oil,2019,2019,kcal/capita/day,254,E,Estimated value,3141,8.09,"8,09"
+FBS,Food Balances (2010-),434,Libya,664,Food supply (kcal/capita/day),S2513,Barley and products,2019,2019,kcal/capita/day,211,E,Estimated value,3141,6.72,"6,72"
+FBS,Food Balances (2010-),434,Libya,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,199,E,Estimated value,3141,6.34,"6,34"
+FBS,Food Balances (2010-),434,Libya,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,183,E,Estimated value,3141,5.83,"5,83"

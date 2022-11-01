@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),104,Myanmar,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,182,E,Estimated value,2850,6.39,"6,39"
+FBS,Food Balances (2010-),104,Myanmar,664,Food supply (kcal/capita/day),S2541,Sugar non-centrifugal,2019,2019,kcal/capita/day,148,E,Estimated value,2850,5.19,"5,19"
+FBS,Food Balances (2010-),104,Myanmar,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,125,E,Estimated value,2850,4.39,"4,39"
+FBS,Food Balances (2010-),104,Myanmar,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,98,E,Estimated value,2850,3.44,"3,44"
+FBS,Food Balances (2010-),104,Myanmar,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,93,E,Estimated value,2850,3.26,"3,26"

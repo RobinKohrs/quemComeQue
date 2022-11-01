@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),156,"China, mainland",664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,580,E,Estimated value,3345,17.34,"17,34"
+FBS,Food Balances (2010-),156,"China, mainland",664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,380,E,Estimated value,3345,11.36,"11,36"
+FBS,Food Balances (2010-),156,"China, mainland",664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,227,E,Estimated value,3345,6.79,"6,79"
+FBS,Food Balances (2010-),156,"China, mainland",664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,86,E,Estimated value,3345,2.57,"2,57"
+FBS,Food Balances (2010-),156,"China, mainland",664,Food supply (kcal/capita/day),S2744,Eggs,2019,2019,kcal/capita/day,84,E,Estimated value,3345,2.51,"2,51"

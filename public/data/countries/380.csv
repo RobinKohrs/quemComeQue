@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),380,Italy,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,311,E,Estimated value,3503,8.88,"8,88"
+FBS,Food Balances (2010-),380,Italy,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,264,E,Estimated value,3503,7.54,"7,54"
+FBS,Food Balances (2010-),380,Italy,664,Food supply (kcal/capita/day),S2580,Olive Oil,2019,2019,kcal/capita/day,240,E,Estimated value,3503,6.85,"6,85"
+FBS,Food Balances (2010-),380,Italy,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,164,E,Estimated value,3503,4.68,"4,68"
+FBS,Food Balances (2010-),380,Italy,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,125,E,Estimated value,3503,3.57,"3,57"

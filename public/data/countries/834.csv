@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),834,United Republic of Tanzania,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,311,E,Estimated value,2375,13.09,"13,09"
+FBS,Food Balances (2010-),834,United Republic of Tanzania,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,182,E,Estimated value,2375,7.66,"7,66"
+FBS,Food Balances (2010-),834,United Republic of Tanzania,664,Food supply (kcal/capita/day),S2546,Beans,2019,2019,kcal/capita/day,153,E,Estimated value,2375,6.44,"6,44"
+FBS,Food Balances (2010-),834,United Republic of Tanzania,664,Food supply (kcal/capita/day),S2533,Sweet potatoes,2019,2019,kcal/capita/day,142,E,Estimated value,2375,5.98,"5,98"
+FBS,Food Balances (2010-),834,United Republic of Tanzania,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,131,E,Estimated value,2375,5.52,"5,52"

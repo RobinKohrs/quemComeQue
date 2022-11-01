@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),266,Gabon,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,368,E,Estimated value,2627,14.01,"14,01"
+FBS,Food Balances (2010-),266,Gabon,664,Food supply (kcal/capita/day),S2616,Plantains,2019,2019,kcal/capita/day,264,E,Estimated value,2627,10.05,"10,05"
+FBS,Food Balances (2010-),266,Gabon,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,211,E,Estimated value,2627,8.03,"8,03"
+FBS,Food Balances (2010-),266,Gabon,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,173,E,Estimated value,2627,6.59,"6,59"
+FBS,Food Balances (2010-),266,Gabon,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,166,E,Estimated value,2627,6.32,"6,32"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),840,United States of America,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,547,E,Estimated value,3861,14.17,"14,17"
+FBS,Food Balances (2010-),840,United States of America,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,381,E,Estimated value,3861,9.87,"9,87"
+FBS,Food Balances (2010-),840,United States of America,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,326,E,Estimated value,3861,8.44,"8,44"
+FBS,Food Balances (2010-),840,United States of America,664,Food supply (kcal/capita/day),S2543,"Sweeteners, Other",2019,2019,kcal/capita/day,260,E,Estimated value,3861,6.73,"6,73"
+FBS,Food Balances (2010-),840,United States of America,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,231,E,Estimated value,3861,5.98,"5,98"

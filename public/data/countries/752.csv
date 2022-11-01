@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),752,Sweden,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,395,E,Estimated value,3180,12.42,"12,42"
+FBS,Food Balances (2010-),752,Sweden,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,324,E,Estimated value,3180,10.19,"10,19"
+FBS,Food Balances (2010-),752,Sweden,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,250,E,Estimated value,3180,7.86,"7,86"
+FBS,Food Balances (2010-),752,Sweden,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,167,E,Estimated value,3180,5.25,"5,25"
+FBS,Food Balances (2010-),752,Sweden,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,102,E,Estimated value,3180,3.21,"3,21"

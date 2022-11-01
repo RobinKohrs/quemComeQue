@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),188,Costa Rica,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,424,E,Estimated value,2992,14.17,"14,17"
+FBS,Food Balances (2010-),188,Costa Rica,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,325,E,Estimated value,2992,10.86,"10,86"
+FBS,Food Balances (2010-),188,Costa Rica,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,312,E,Estimated value,2992,10.43,"10,43"
+FBS,Food Balances (2010-),188,Costa Rica,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,223,E,Estimated value,2992,7.45,"7,45"
+FBS,Food Balances (2010-),188,Costa Rica,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,151,E,Estimated value,2992,5.05,"5,05"

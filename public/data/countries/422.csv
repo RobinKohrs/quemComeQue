@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),422,Lebanon,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,391,E,Estimated value,2870,13.62,"13,62"
+FBS,Food Balances (2010-),422,Lebanon,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,167,E,Estimated value,2870,5.82,"5,82"
+FBS,Food Balances (2010-),422,Lebanon,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,148,E,Estimated value,2870,5.16,"5,16"
+FBS,Food Balances (2010-),422,Lebanon,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,127,E,Estimated value,2870,4.43,"4,43"
+FBS,Food Balances (2010-),422,Lebanon,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,119,E,Estimated value,2870,4.15,"4,15"

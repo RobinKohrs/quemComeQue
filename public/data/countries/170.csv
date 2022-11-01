@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),170,Colombia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,313,E,Estimated value,2989,10.47,"10,47"
+FBS,Food Balances (2010-),170,Colombia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,285,E,Estimated value,2989,9.53,"9,53"
+FBS,Food Balances (2010-),170,Colombia,664,Food supply (kcal/capita/day),S2541,Sugar non-centrifugal,2019,2019,kcal/capita/day,266,E,Estimated value,2989,8.9,"8,9"
+FBS,Food Balances (2010-),170,Colombia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,235,E,Estimated value,2989,7.86,"7,86"
+FBS,Food Balances (2010-),170,Colombia,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,200,E,Estimated value,2989,6.69,"6,69"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),478,Mauritania,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,450,E,Estimated value,2874,15.66,"15,66"
+FBS,Food Balances (2010-),478,Mauritania,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,359,E,Estimated value,2874,12.49,"12,49"
+FBS,Food Balances (2010-),478,Mauritania,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,244,E,Estimated value,2874,8.49,"8,49"
+FBS,Food Balances (2010-),478,Mauritania,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,150,E,Estimated value,2874,5.22,"5,22"
+FBS,Food Balances (2010-),478,Mauritania,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,148,E,Estimated value,2874,5.15,"5,15"

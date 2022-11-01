@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),132,Cabo Verde,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,421,E,Estimated value,2585,16.29,"16,29"
+FBS,Food Balances (2010-),132,Cabo Verde,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,329,E,Estimated value,2585,12.73,"12,73"
+FBS,Food Balances (2010-),132,Cabo Verde,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,179,E,Estimated value,2585,6.92,"6,92"
+FBS,Food Balances (2010-),132,Cabo Verde,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,160,E,Estimated value,2585,6.19,"6,19"
+FBS,Food Balances (2010-),132,Cabo Verde,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,96,E,Estimated value,2585,3.71,"3,71"

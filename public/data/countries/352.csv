@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),352,Iceland,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,626,E,Estimated value,3638,17.21,"17,21"
+FBS,Food Balances (2010-),352,Iceland,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,302,E,Estimated value,3638,8.3,"8,3"
+FBS,Food Balances (2010-),352,Iceland,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,216,E,Estimated value,3638,5.94,"5,94"
+FBS,Food Balances (2010-),352,Iceland,664,Food supply (kcal/capita/day),S2732,Mutton & Goat Meat,2019,2019,kcal/capita/day,141,E,Estimated value,3638,3.88,"3,88"
+FBS,Food Balances (2010-),352,Iceland,664,Food supply (kcal/capita/day),S2740,"Butter, Ghee",2019,2019,kcal/capita/day,136,E,Estimated value,3638,3.74,"3,74"

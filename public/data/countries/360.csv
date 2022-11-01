@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),360,Indonesia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,235,E,Estimated value,2878,8.17,"8,17"
+FBS,Food Balances (2010-),360,Indonesia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,224,E,Estimated value,2878,7.78,"7,78"
+FBS,Food Balances (2010-),360,Indonesia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,206,E,Estimated value,2878,7.16,"7,16"
+FBS,Food Balances (2010-),360,Indonesia,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,160,E,Estimated value,2878,5.56,"5,56"
+FBS,Food Balances (2010-),360,Indonesia,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,157,E,Estimated value,2878,5.46,"5,46"

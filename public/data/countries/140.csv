@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),140,Central African Republic,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,248,E,Estimated value,1866,13.29,"13,29"
+FBS,Food Balances (2010-),140,Central African Republic,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,151,E,Estimated value,1866,8.09,"8,09"
+FBS,Food Balances (2010-),140,Central African Republic,664,Food supply (kcal/capita/day),S2572,Groundnut Oil,2019,2019,kcal/capita/day,143,E,Estimated value,1866,7.66,"7,66"
+FBS,Food Balances (2010-),140,Central African Republic,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,107,E,Estimated value,1866,5.73,"5,73"
+FBS,Food Balances (2010-),140,Central African Republic,664,Food supply (kcal/capita/day),S2552,Groundnuts,2019,2019,kcal/capita/day,90,E,Estimated value,1866,4.82,"4,82"

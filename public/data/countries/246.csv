@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),246,Finland,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,464,E,Estimated value,3315,14,14
+FBS,Food Balances (2010-),246,Finland,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,315,E,Estimated value,3315,9.5,"9,5"
+FBS,Food Balances (2010-),246,Finland,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,275,E,Estimated value,3315,8.3,"8,3"
+FBS,Food Balances (2010-),246,Finland,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,201,E,Estimated value,3315,6.06,"6,06"
+FBS,Food Balances (2010-),246,Finland,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,124,E,Estimated value,3315,3.74,"3,74"

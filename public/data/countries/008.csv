@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),008,Albania,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,632,E,Estimated value,3334,18.96,"18,96"
+FBS,Food Balances (2010-),008,Albania,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,159,E,Estimated value,3334,4.77,"4,77"
+FBS,Food Balances (2010-),008,Albania,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,137,E,Estimated value,3334,4.11,"4,11"
+FBS,Food Balances (2010-),008,Albania,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,127,E,Estimated value,3334,3.81,"3,81"
+FBS,Food Balances (2010-),008,Albania,664,Food supply (kcal/capita/day),S2620,Grapes and products (excl wine),2019,2019,kcal/capita/day,106,E,Estimated value,3334,3.18,"3,18"

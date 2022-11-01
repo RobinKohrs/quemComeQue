@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),084,Belize,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,391,E,Estimated value,2745,14.24,"14,24"
+FBS,Food Balances (2010-),084,Belize,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,235,E,Estimated value,2745,8.56,"8,56"
+FBS,Food Balances (2010-),084,Belize,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,214,E,Estimated value,2745,7.8,"7,8"
+FBS,Food Balances (2010-),084,Belize,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,145,E,Estimated value,2745,5.28,"5,28"
+FBS,Food Balances (2010-),084,Belize,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,145,E,Estimated value,2745,5.28,"5,28"

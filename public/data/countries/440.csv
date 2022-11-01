@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),440,Lithuania,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,330,E,Estimated value,3408,9.68,"9,68"
+FBS,Food Balances (2010-),440,Lithuania,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,275,E,Estimated value,3408,8.07,"8,07"
+FBS,Food Balances (2010-),440,Lithuania,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,265,E,Estimated value,3408,7.78,"7,78"
+FBS,Food Balances (2010-),440,Lithuania,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,156,E,Estimated value,3408,4.58,"4,58"
+FBS,Food Balances (2010-),440,Lithuania,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,115,E,Estimated value,3408,3.37,"3,37"

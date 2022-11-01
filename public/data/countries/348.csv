@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),348,Hungary,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,311,E,Estimated value,3390,9.17,"9,17"
+FBS,Food Balances (2010-),348,Hungary,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,280,E,Estimated value,3390,8.26,"8,26"
+FBS,Food Balances (2010-),348,Hungary,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,275,E,Estimated value,3390,8.11,"8,11"
+FBS,Food Balances (2010-),348,Hungary,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,252,E,Estimated value,3390,7.43,"7,43"
+FBS,Food Balances (2010-),348,Hungary,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,196,E,Estimated value,3390,5.78,"5,78"

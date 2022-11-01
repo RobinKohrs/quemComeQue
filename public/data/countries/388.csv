@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),388,Jamaica,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,478,E,Estimated value,2768,17.27,"17,27"
+FBS,Food Balances (2010-),388,Jamaica,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,242,E,Estimated value,2768,8.74,"8,74"
+FBS,Food Balances (2010-),388,Jamaica,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,190,E,Estimated value,2768,6.86,"6,86"
+FBS,Food Balances (2010-),388,Jamaica,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,164,E,Estimated value,2768,5.92,"5,92"
+FBS,Food Balances (2010-),388,Jamaica,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,97,E,Estimated value,2768,3.5,"3,5"

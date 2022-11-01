@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),558,Nicaragua,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,450,E,Estimated value,2618,17.19,"17,19"
+FBS,Food Balances (2010-),558,Nicaragua,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,397,E,Estimated value,2618,15.16,"15,16"
+FBS,Food Balances (2010-),558,Nicaragua,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,221,E,Estimated value,2618,8.44,"8,44"
+FBS,Food Balances (2010-),558,Nicaragua,664,Food supply (kcal/capita/day),S2546,Beans,2019,2019,kcal/capita/day,150,E,Estimated value,2618,5.73,"5,73"
+FBS,Food Balances (2010-),558,Nicaragua,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,116,E,Estimated value,2618,4.43,"4,43"

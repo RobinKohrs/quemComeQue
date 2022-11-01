@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),112,Belarus,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,323,E,Estimated value,3291,9.81,"9,81"
+FBS,Food Balances (2010-),112,Belarus,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,258,E,Estimated value,3291,7.84,"7,84"
+FBS,Food Balances (2010-),112,Belarus,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,240,E,Estimated value,3291,7.29,"7,29"
+FBS,Food Balances (2010-),112,Belarus,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,219,E,Estimated value,3291,6.65,"6,65"
+FBS,Food Balances (2010-),112,Belarus,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,206,E,Estimated value,3291,6.26,"6,26"

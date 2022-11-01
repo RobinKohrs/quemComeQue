@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),807,North Macedonia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,379,E,Estimated value,3094,12.25,"12,25"
+FBS,Food Balances (2010-),807,North Macedonia,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,348,E,Estimated value,3094,11.25,"11,25"
+FBS,Food Balances (2010-),807,North Macedonia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,276,E,Estimated value,3094,8.92,"8,92"
+FBS,Food Balances (2010-),807,North Macedonia,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,197,E,Estimated value,3094,6.37,"6,37"
+FBS,Food Balances (2010-),807,North Macedonia,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,116,E,Estimated value,3094,3.75,"3,75"

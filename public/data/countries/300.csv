@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),300,Greece,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,411,E,Estimated value,3396,12.1,"12,1"
+FBS,Food Balances (2010-),300,Greece,664,Food supply (kcal/capita/day),S2580,Olive Oil,2019,2019,kcal/capita/day,360,E,Estimated value,3396,10.6,"10,6"
+FBS,Food Balances (2010-),300,Greece,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,264,E,Estimated value,3396,7.77,"7,77"
+FBS,Food Balances (2010-),300,Greece,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,121,E,Estimated value,3396,3.56,"3,56"
+FBS,Food Balances (2010-),300,Greece,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,113,E,Estimated value,3396,3.33,"3,33"

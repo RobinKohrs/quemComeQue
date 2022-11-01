@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),036,Australia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,434,E,Estimated value,3418,12.7,"12,7"
+FBS,Food Balances (2010-),036,Australia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,386,E,Estimated value,3418,11.29,"11,29"
+FBS,Food Balances (2010-),036,Australia,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,203,E,Estimated value,3418,5.94,"5,94"
+FBS,Food Balances (2010-),036,Australia,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,199,E,Estimated value,3418,5.82,"5,82"
+FBS,Food Balances (2010-),036,Australia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,129,E,Estimated value,3418,3.77,"3,77"

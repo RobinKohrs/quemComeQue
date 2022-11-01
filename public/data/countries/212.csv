@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),212,Dominica,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,380,E,Estimated value,2929,12.97,"12,97"
+FBS,Food Balances (2010-),212,Dominica,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,208,E,Estimated value,2929,7.1,"7,1"
+FBS,Food Balances (2010-),212,Dominica,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,174,E,Estimated value,2929,5.94,"5,94"
+FBS,Food Balances (2010-),212,Dominica,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,154,E,Estimated value,2929,5.26,"5,26"
+FBS,Food Balances (2010-),212,Dominica,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,147,E,Estimated value,2929,5.02,"5,02"

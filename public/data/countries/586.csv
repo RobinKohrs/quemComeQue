@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),586,Pakistan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,341,E,Estimated value,2483,13.73,"13,73"
+FBS,Food Balances (2010-),586,Pakistan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,207,E,Estimated value,2483,8.34,"8,34"
+FBS,Food Balances (2010-),586,Pakistan,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,200,E,Estimated value,2483,8.05,"8,05"
+FBS,Food Balances (2010-),586,Pakistan,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,174,E,Estimated value,2483,7.01,"7,01"
+FBS,Food Balances (2010-),586,Pakistan,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,134,E,Estimated value,2483,5.4,"5,4"

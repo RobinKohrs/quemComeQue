@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),070,Bosnia and Herzegovina,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,615,E,Estimated value,3317,18.54,"18,54"
+FBS,Food Balances (2010-),070,Bosnia and Herzegovina,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,315,E,Estimated value,3317,9.5,"9,5"
+FBS,Food Balances (2010-),070,Bosnia and Herzegovina,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,174,E,Estimated value,3317,5.25,"5,25"
+FBS,Food Balances (2010-),070,Bosnia and Herzegovina,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,150,E,Estimated value,3317,4.52,"4,52"
+FBS,Food Balances (2010-),070,Bosnia and Herzegovina,664,Food supply (kcal/capita/day),S2658,"Beverages, Alcoholic",2019,2019,kcal/capita/day,144,E,Estimated value,3317,4.34,"4,34"

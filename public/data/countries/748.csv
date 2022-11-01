@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),748,Eswatini,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,323,E,Estimated value,2540,12.72,"12,72"
+FBS,Food Balances (2010-),748,Eswatini,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,256,E,Estimated value,2540,10.08,"10,08"
+FBS,Food Balances (2010-),748,Eswatini,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,240,E,Estimated value,2540,9.45,"9,45"
+FBS,Food Balances (2010-),748,Eswatini,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,129,E,Estimated value,2540,5.08,"5,08"
+FBS,Food Balances (2010-),748,Eswatini,664,Food supply (kcal/capita/day),S2543,"Sweeteners, Other",2019,2019,kcal/capita/day,118,E,Estimated value,2540,4.65,"4,65"

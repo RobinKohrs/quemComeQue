@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),024,Angola,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,398,E,Estimated value,2441,16.3,"16,3"
+FBS,Food Balances (2010-),024,Angola,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,241,E,Estimated value,2441,9.87,"9,87"
+FBS,Food Balances (2010-),024,Angola,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,183,E,Estimated value,2441,7.5,"7,5"
+FBS,Food Balances (2010-),024,Angola,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,130,E,Estimated value,2441,5.33,"5,33"
+FBS,Food Balances (2010-),024,Angola,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,109,E,Estimated value,2441,4.47,"4,47"

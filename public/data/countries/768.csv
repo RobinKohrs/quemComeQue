@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),768,Togo,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,319,E,Estimated value,2465,12.94,"12,94"
+FBS,Food Balances (2010-),768,Togo,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,220,E,Estimated value,2465,8.92,"8,92"
+FBS,Food Balances (2010-),768,Togo,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,213,E,Estimated value,2465,8.64,"8,64"
+FBS,Food Balances (2010-),768,Togo,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,175,E,Estimated value,2465,7.1,"7,1"
+FBS,Food Balances (2010-),768,Togo,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,161,E,Estimated value,2465,6.53,"6,53"

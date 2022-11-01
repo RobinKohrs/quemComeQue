@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),050,Bangladesh,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,160,E,Estimated value,2626,6.09,"6,09"
+FBS,Food Balances (2010-),050,Bangladesh,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,101,E,Estimated value,2626,3.85,"3,85"
+FBS,Food Balances (2010-),050,Bangladesh,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,85,E,Estimated value,2626,3.24,"3,24"
+FBS,Food Balances (2010-),050,Bangladesh,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,60,E,Estimated value,2626,2.28,"2,28"
+FBS,Food Balances (2010-),050,Bangladesh,664,Food supply (kcal/capita/day),S2571,Soyabean Oil,2019,2019,kcal/capita/day,60,E,Estimated value,2626,2.28,"2,28"

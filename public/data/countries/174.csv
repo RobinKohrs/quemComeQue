@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),174,Comoros,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,213,E,Estimated value,2283,9.33,"9,33"
+FBS,Food Balances (2010-),174,Comoros,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,193,E,Estimated value,2283,8.45,"8,45"
+FBS,Food Balances (2010-),174,Comoros,664,Food supply (kcal/capita/day),S2578,Coconut Oil,2019,2019,kcal/capita/day,174,E,Estimated value,2283,7.62,"7,62"
+FBS,Food Balances (2010-),174,Comoros,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,166,E,Estimated value,2283,7.27,"7,27"
+FBS,Food Balances (2010-),174,Comoros,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,115,E,Estimated value,2283,5.04,"5,04"

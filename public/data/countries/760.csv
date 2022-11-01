@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),760,Syrian Arab Republic,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,201,E,Estimated value,2758,7.29,"7,29"
+FBS,Food Balances (2010-),760,Syrian Arab Republic,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,178,E,Estimated value,2758,6.45,"6,45"
+FBS,Food Balances (2010-),760,Syrian Arab Republic,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,174,E,Estimated value,2758,6.31,"6,31"
+FBS,Food Balances (2010-),760,Syrian Arab Republic,664,Food supply (kcal/capita/day),S2580,Olive Oil,2019,2019,kcal/capita/day,144,E,Estimated value,2758,5.22,"5,22"
+FBS,Food Balances (2010-),760,Syrian Arab Republic,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,92,E,Estimated value,2758,3.34,"3,34"

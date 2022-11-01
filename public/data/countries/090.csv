@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),090,Solomon Islands,664,Food supply (kcal/capita/day),S2533,Sweet potatoes,2019,2019,kcal/capita/day,436,E,Estimated value,2408,18.11,"18,11"
+FBS,Food Balances (2010-),090,Solomon Islands,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,215,E,Estimated value,2408,8.93,"8,93"
+FBS,Food Balances (2010-),090,Solomon Islands,664,Food supply (kcal/capita/day),S2560,Coconuts - Incl Copra,2019,2019,kcal/capita/day,196,E,Estimated value,2408,8.14,"8,14"
+FBS,Food Balances (2010-),090,Solomon Islands,664,Food supply (kcal/capita/day),S2535,Yams,2019,2019,kcal/capita/day,179,E,Estimated value,2408,7.43,"7,43"
+FBS,Food Balances (2010-),090,Solomon Islands,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,147,E,Estimated value,2408,6.1,"6,1"

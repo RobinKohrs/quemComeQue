@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),704,Viet Nam,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,374,E,Estimated value,2937,12.73,"12,73"
+FBS,Food Balances (2010-),704,Viet Nam,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,145,E,Estimated value,2937,4.94,"4,94"
+FBS,Food Balances (2010-),704,Viet Nam,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,112,E,Estimated value,2937,3.81,"3,81"
+FBS,Food Balances (2010-),704,Viet Nam,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,101,E,Estimated value,2937,3.44,"3,44"
+FBS,Food Balances (2010-),704,Viet Nam,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,94,E,Estimated value,2937,3.2,"3,2"

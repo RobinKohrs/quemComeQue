@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),100,Bulgaria,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,277,E,Estimated value,2853,9.71,"9,71"
+FBS,Food Balances (2010-),100,Bulgaria,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,269,E,Estimated value,2853,9.43,"9,43"
+FBS,Food Balances (2010-),100,Bulgaria,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,264,E,Estimated value,2853,9.25,"9,25"
+FBS,Food Balances (2010-),100,Bulgaria,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,226,E,Estimated value,2853,7.92,"7,92"
+FBS,Food Balances (2010-),100,Bulgaria,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,146,E,Estimated value,2853,5.12,"5,12"

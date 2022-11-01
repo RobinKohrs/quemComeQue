@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),616,Poland,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,428,E,Estimated value,3507,12.2,"12,2"
+FBS,Food Balances (2010-),616,Poland,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,325,E,Estimated value,3507,9.27,"9,27"
+FBS,Food Balances (2010-),616,Poland,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,260,E,Estimated value,3507,7.41,"7,41"
+FBS,Food Balances (2010-),616,Poland,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,224,E,Estimated value,3507,6.39,"6,39"
+FBS,Food Balances (2010-),616,Poland,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,183,E,Estimated value,3507,5.22,"5,22"

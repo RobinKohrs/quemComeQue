@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),466,Mali,664,Food supply (kcal/capita/day),S2517,Millet and products,2019,2019,kcal/capita/day,516,E,Estimated value,2886,17.88,"17,88"
+FBS,Food Balances (2010-),466,Mali,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,390,E,Estimated value,2886,13.51,"13,51"
+FBS,Food Balances (2010-),466,Mali,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,342,E,Estimated value,2886,11.85,"11,85"
+FBS,Food Balances (2010-),466,Mali,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,143,E,Estimated value,2886,4.95,"4,95"
+FBS,Food Balances (2010-),466,Mali,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,116,E,Estimated value,2886,4.02,"4,02"

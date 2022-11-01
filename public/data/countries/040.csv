@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),040,Austria,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,417,E,Estimated value,3692,11.29,"11,29"
+FBS,Food Balances (2010-),040,Austria,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,307,E,Estimated value,3692,8.32,"8,32"
+FBS,Food Balances (2010-),040,Austria,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,238,E,Estimated value,3692,6.45,"6,45"
+FBS,Food Balances (2010-),040,Austria,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,227,E,Estimated value,3692,6.15,"6,15"
+FBS,Food Balances (2010-),040,Austria,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,227,E,Estimated value,3692,6.15,"6,15"

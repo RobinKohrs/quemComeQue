@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),694,Sierra Leone,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,447,E,Estimated value,2333,19.16,"19,16"
+FBS,Food Balances (2010-),694,Sierra Leone,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,215,E,Estimated value,2333,9.22,"9,22"
+FBS,Food Balances (2010-),694,Sierra Leone,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,101,E,Estimated value,2333,4.33,"4,33"
+FBS,Food Balances (2010-),694,Sierra Leone,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,82,E,Estimated value,2333,3.51,"3,51"
+FBS,Food Balances (2010-),694,Sierra Leone,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,74,E,Estimated value,2333,3.17,"3,17"

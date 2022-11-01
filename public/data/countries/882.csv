@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),882,Samoa,664,Food supply (kcal/capita/day),S2560,Coconuts - Incl Copra,2019,2019,kcal/capita/day,485,E,Estimated value,3094,15.68,"15,68"
+FBS,Food Balances (2010-),882,Samoa,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,240,E,Estimated value,3094,7.76,"7,76"
+FBS,Food Balances (2010-),882,Samoa,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,218,E,Estimated value,3094,7.05,"7,05"
+FBS,Food Balances (2010-),882,Samoa,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,216,E,Estimated value,3094,6.98,"6,98"
+FBS,Food Balances (2010-),882,Samoa,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,174,E,Estimated value,3094,5.62,"5,62"

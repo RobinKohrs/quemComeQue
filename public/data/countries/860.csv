@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),860,Uzbekistan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,407,E,Estimated value,3219,12.64,"12,64"
+FBS,Food Balances (2010-),860,Uzbekistan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,190,E,Estimated value,3219,5.9,"5,9"
+FBS,Food Balances (2010-),860,Uzbekistan,664,Food supply (kcal/capita/day),S2731,Bovine Meat,2019,2019,kcal/capita/day,184,E,Estimated value,3219,5.72,"5,72"
+FBS,Food Balances (2010-),860,Uzbekistan,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,157,E,Estimated value,3219,4.88,"4,88"
+FBS,Food Balances (2010-),860,Uzbekistan,664,Food supply (kcal/capita/day),S2605,"Vegetables, other",2019,2019,kcal/capita/day,136,E,Estimated value,3219,4.22,"4,22"

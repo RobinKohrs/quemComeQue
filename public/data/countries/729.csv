@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),729,Sudan,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,535,E,Estimated value,2579,20.74,"20,74"
+FBS,Food Balances (2010-),729,Sudan,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,275,E,Estimated value,2579,10.66,"10,66"
+FBS,Food Balances (2010-),729,Sudan,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,204,E,Estimated value,2579,7.91,"7,91"
+FBS,Food Balances (2010-),729,Sudan,664,Food supply (kcal/capita/day),S2517,Millet and products,2019,2019,kcal/capita/day,163,E,Estimated value,2579,6.32,"6,32"
+FBS,Food Balances (2010-),729,Sudan,664,Food supply (kcal/capita/day),S2552,Groundnuts,2019,2019,kcal/capita/day,104,E,Estimated value,2579,4.03,"4,03"

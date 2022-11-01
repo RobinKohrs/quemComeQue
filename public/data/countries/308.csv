@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),308,Grenada,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,327,E,Estimated value,2478,13.2,"13,2"
+FBS,Food Balances (2010-),308,Grenada,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,187,E,Estimated value,2478,7.55,"7,55"
+FBS,Food Balances (2010-),308,Grenada,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,180,E,Estimated value,2478,7.26,"7,26"
+FBS,Food Balances (2010-),308,Grenada,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,142,E,Estimated value,2478,5.73,"5,73"
+FBS,Food Balances (2010-),308,Grenada,664,Food supply (kcal/capita/day),S2625,"Fruits, other",2019,2019,kcal/capita/day,93,E,Estimated value,2478,3.75,"3,75"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),231,Ethiopia,664,Food supply (kcal/capita/day),S2520,"Cereals, Other",2019,2019,kcal/capita/day,376,E,Estimated value,2434,15.45,"15,45"
+FBS,Food Balances (2010-),231,Ethiopia,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,327,E,Estimated value,2434,13.43,"13,43"
+FBS,Food Balances (2010-),231,Ethiopia,664,Food supply (kcal/capita/day),S2518,Sorghum and products,2019,2019,kcal/capita/day,237,E,Estimated value,2434,9.74,"9,74"
+FBS,Food Balances (2010-),231,Ethiopia,664,Food supply (kcal/capita/day),S2534,"Roots, Other",2019,2019,kcal/capita/day,148,E,Estimated value,2434,6.08,"6,08"
+FBS,Food Balances (2010-),231,Ethiopia,664,Food supply (kcal/capita/day),S2549,"Pulses, Other and products",2019,2019,kcal/capita/day,141,E,Estimated value,2434,5.79,"5,79"

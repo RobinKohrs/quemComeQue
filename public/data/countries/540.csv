@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),540,New Caledonia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,278,E,Estimated value,2859,9.72,"9,72"
+FBS,Food Balances (2010-),540,New Caledonia,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,206,E,Estimated value,2859,7.21,"7,21"
+FBS,Food Balances (2010-),540,New Caledonia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,199,E,Estimated value,2859,6.96,"6,96"
+FBS,Food Balances (2010-),540,New Caledonia,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,177,E,Estimated value,2859,6.19,"6,19"
+FBS,Food Balances (2010-),540,New Caledonia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,153,E,Estimated value,2859,5.35,"5,35"

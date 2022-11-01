@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),470,Malta,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,414,E,Estimated value,3377,12.26,"12,26"
+FBS,Food Balances (2010-),470,Malta,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,317,E,Estimated value,3377,9.39,"9,39"
+FBS,Food Balances (2010-),470,Malta,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,146,E,Estimated value,3377,4.32,"4,32"
+FBS,Food Balances (2010-),470,Malta,664,Food supply (kcal/capita/day),S2737,"Fats, Animals, Raw",2019,2019,kcal/capita/day,121,E,Estimated value,3377,3.58,"3,58"
+FBS,Food Balances (2010-),470,Malta,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,109,E,Estimated value,3377,3.23,"3,23"

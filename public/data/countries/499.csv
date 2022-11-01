@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),499,Montenegro,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,543,E,Estimated value,3515,15.45,"15,45"
+FBS,Food Balances (2010-),499,Montenegro,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,376,E,Estimated value,3515,10.7,"10,7"
+FBS,Food Balances (2010-),499,Montenegro,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,196,E,Estimated value,3515,5.58,"5,58"
+FBS,Food Balances (2010-),499,Montenegro,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,157,E,Estimated value,3515,4.47,"4,47"
+FBS,Food Balances (2010-),499,Montenegro,664,Food supply (kcal/capita/day),S2543,"Sweeteners, Other",2019,2019,kcal/capita/day,112,E,Estimated value,3515,3.19,"3,19"

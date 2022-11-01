@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),710,South Africa,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,480,E,Estimated value,2891,16.6,"16,6"
+FBS,Food Balances (2010-),710,South Africa,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,285,E,Estimated value,2891,9.86,"9,86"
+FBS,Food Balances (2010-),710,South Africa,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,150,E,Estimated value,2891,5.19,"5,19"
+FBS,Food Balances (2010-),710,South Africa,664,Food supply (kcal/capita/day),S2807,Rice and products,2019,2019,kcal/capita/day,138,E,Estimated value,2891,4.77,"4,77"
+FBS,Food Balances (2010-),710,South Africa,664,Food supply (kcal/capita/day),S2573,Sunflowerseed Oil,2019,2019,kcal/capita/day,132,E,Estimated value,2891,4.57,"4,57"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),332,Haiti,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,242,E,Estimated value,2157,11.22,"11,22"
+FBS,Food Balances (2010-),332,Haiti,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,235,E,Estimated value,2157,10.89,"10,89"
+FBS,Food Balances (2010-),332,Haiti,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,216,E,Estimated value,2157,10.01,"10,01"
+FBS,Food Balances (2010-),332,Haiti,664,Food supply (kcal/capita/day),S2658,"Beverages, Alcoholic",2019,2019,kcal/capita/day,125,E,Estimated value,2157,5.8,"5,8"
+FBS,Food Balances (2010-),332,Haiti,664,Food supply (kcal/capita/day),S2577,Palm Oil,2019,2019,kcal/capita/day,86,E,Estimated value,2157,3.99,"3,99"

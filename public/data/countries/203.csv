@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),203,Czechia,664,Food supply (kcal/capita/day),S2574,Rape and Mustard Oil,2019,2019,kcal/capita/day,386,E,Estimated value,3288,11.74,"11,74"
+FBS,Food Balances (2010-),203,Czechia,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,288,E,Estimated value,3288,8.76,"8,76"
+FBS,Food Balances (2010-),203,Czechia,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,288,E,Estimated value,3288,8.76,"8,76"
+FBS,Food Balances (2010-),203,Czechia,664,Food supply (kcal/capita/day),S2656,Beer,2019,2019,kcal/capita/day,204,E,Estimated value,3288,6.2,"6,2"
+FBS,Food Balances (2010-),203,Czechia,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,199,E,Estimated value,3288,6.05,"6,05"

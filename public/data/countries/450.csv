@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),450,Madagascar,664,Food supply (kcal/capita/day),S2532,Cassava and products,2019,2019,kcal/capita/day,243,E,Estimated value,1909,12.73,"12,73"
+FBS,Food Balances (2010-),450,Madagascar,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,113,E,Estimated value,1909,5.92,"5,92"
+FBS,Food Balances (2010-),450,Madagascar,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,72,E,Estimated value,1909,3.77,"3,77"
+FBS,Food Balances (2010-),450,Madagascar,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,60,E,Estimated value,1909,3.14,"3,14"
+FBS,Food Balances (2010-),450,Madagascar,664,Food supply (kcal/capita/day),S2533,Sweet potatoes,2019,2019,kcal/capita/day,53,E,Estimated value,1909,2.78,"2,78"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),208,Denmark,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,421,E,Estimated value,3418,12.32,"12,32"
+FBS,Food Balances (2010-),208,Denmark,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,409,E,Estimated value,3418,11.97,"11,97"
+FBS,Food Balances (2010-),208,Denmark,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,202,E,Estimated value,3418,5.91,"5,91"
+FBS,Food Balances (2010-),208,Denmark,664,Food supply (kcal/capita/day),S2586,"Oilcrops Oil, Other",2019,2019,kcal/capita/day,176,E,Estimated value,3418,5.15,"5,15"
+FBS,Food Balances (2010-),208,Denmark,664,Food supply (kcal/capita/day),S2515,Rye and products,2019,2019,kcal/capita/day,145,E,Estimated value,3418,4.24,"4,24"

@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),528,Netherlands,664,Food supply (kcal/capita/day),S2848,Milk - Excluding Butter,2019,2019,kcal/capita/day,519,E,Estimated value,3347,15.51,"15,51"
+FBS,Food Balances (2010-),528,Netherlands,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,350,E,Estimated value,3347,10.46,"10,46"
+FBS,Food Balances (2010-),528,Netherlands,664,Food supply (kcal/capita/day),S2733,Pigmeat,2019,2019,kcal/capita/day,147,E,Estimated value,3347,4.39,"4,39"
+FBS,Food Balances (2010-),528,Netherlands,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,139,E,Estimated value,3347,4.15,"4,15"
+FBS,Food Balances (2010-),528,Netherlands,664,Food supply (kcal/capita/day),S2520,"Cereals, Other",2019,2019,kcal/capita/day,124,E,Estimated value,3347,3.7,"3,7"

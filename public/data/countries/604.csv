@@ -1,0 +1,6 @@
+domain_code,domain,area_code_m49,area,element_code,element,item_code_cpc,item,year_code,year,unit,value,flag,flag_description,total,share,share_de
+FBS,Food Balances (2010-),604,Peru,664,Food supply (kcal/capita/day),S2511,Wheat and products,2019,2019,kcal/capita/day,348,E,Estimated value,2780,12.52,"12,52"
+FBS,Food Balances (2010-),604,Peru,664,Food supply (kcal/capita/day),S2531,Potatoes and products,2019,2019,kcal/capita/day,247,E,Estimated value,2780,8.88,"8,88"
+FBS,Food Balances (2010-),604,Peru,664,Food supply (kcal/capita/day),S2542,Sugar (Raw Equivalent),2019,2019,kcal/capita/day,194,E,Estimated value,2780,6.98,"6,98"
+FBS,Food Balances (2010-),604,Peru,664,Food supply (kcal/capita/day),S2734,Poultry Meat,2019,2019,kcal/capita/day,188,E,Estimated value,2780,6.76,"6,76"
+FBS,Food Balances (2010-),604,Peru,664,Food supply (kcal/capita/day),S2514,Maize and products,2019,2019,kcal/capita/day,149,E,Estimated value,2780,5.36,"5,36"
