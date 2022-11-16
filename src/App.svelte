@@ -22,12 +22,17 @@
   // data
   let dataPath = "./data/whichFoodTypeMostCaloriesGer.csv";
   let data, dataLoaded;
+  let sortedData;
   d3.csv(dataPath).then((d) => {
     data = d;
+    console.log(`data: `, data);
     dataLoaded = true;
+    sortedData = data.sort((a, b) => +a.total < +b.total);
+    console.log(`sd: `, sortedData);
   });
 
   let countries;
+  let all;
   $: if (dataLoaded) {
     // countries = data.map(e => e.country_de_clean)
 
@@ -49,29 +54,33 @@
       value: `Calories from ${selectedDataClean["item"]}<br><span style="font-size: .8rem">(% of total)</span>`,
       total:
         'Calories total <br><span style="font-size: .8rem">(per day)</span>',
-      rank: "Rang",
+      rank: "Rank",
     };
   }
 
   let selectedCountry;
   let selectedCountry_en;
-  let countryCode 
+  let countryCode;
+  let rank;
   function chose(ele) {
-    contentCollapsed = true
+    contentCollapsed = true;
     let {
       detail: { name: country },
     } = ele;
 
     selectedCountry = country;
-    let selectedCountry_en_obj = data.find((e) => e.area == country)
-    selectedCountry_en =  selectedCountry_en_obj.area
-    countryCode =  selectedCountry_en_obj.area_code_m49
+    console.log(`country: `, country);
+    rank = sortedData.map((e) => e.area).indexOf(country);
+    console.log(`rank: `, rank);
+    let selectedCountry_en_obj = data.find((e) => e.area == country);
+    selectedCountry_en = selectedCountry_en_obj.area;
+    countryCode = selectedCountry_en_obj.area_code_m49;
 
     selectedDataUnclean = data.find((e) => e.area == country);
     selectedDataClean = cleanData(selectedDataUnclean);
     selectionMade = true;
-    content = getContent()
-    contentLoaded = true
+    content = getContent();
+    contentLoaded = true;
   }
 
   function cleanData(dataUnclean) {
@@ -111,29 +120,26 @@
         return obj;
       }, {});
 
-
     return dataCleaned;
   }
 
   let contentCollapsed = true;
-  $: console.log(`cc: `, contentCollapsed);
 
   function closePanel() {
     selectionMade = false;
-    contentCollapsed = true
+    contentCollapsed = true;
   }
 
   let content;
   let contentLoaded;
-  $: console.log(`contentLoaded: `, contentLoaded);
 
-
-  function toggleContent(){
-    contentCollapsed = !contentCollapsed
+  function toggleContent() {
+    contentCollapsed = !contentCollapsed;
   }
 
   function getContent() {
-    let path = `./data/countries/${countryCode}.csv`;
+    let countryCodePadded = String(countryCode).padStart("3", "0");
+    let path = `./data/countries/${countryCodePadded}.csv`;
     let dd = [];
 
     d3.csv(path).then((d) => {
@@ -148,8 +154,6 @@
 
     return dd;
   }
-
-
 
   // legend
   let xPos, xScale;
@@ -186,10 +190,7 @@
       />
       {#if selectionMade}
         <div class="selection" transition:slide>
-          <div
-            class="icon flex justify-center py-2"
-            style="gap: 10%; flex-wrap: wrap"
-          >
+          <div class="icon flex justify-center py-2" style="">
             <div
               class="type"
               style="display: flex; align-items: center; font-size: 2rem;"
@@ -204,9 +205,6 @@
                 {selectedDataClean["item"]}
               </div>
             </div>
-            <span>
-              {@html foodIcons.rice}
-            </span>
           </div>
           <div class="results-outer-container relative" style="margin: .2rem">
             <div class="results">
@@ -214,7 +212,7 @@
                 {#if key != "item"}
                   <div
                     class="result-item-box relative"
-                    style="margin-bottom: 5rem; padding-bottom: 2rem;"
+                    style="margin-bottom: 3rem; padding-bottom: 2rem;"
                   >
                     <div class="result-header">{@html headers[key]}</div>
                     <div class="result-content" style="font-size: 1.3rem;">
@@ -239,7 +237,7 @@
                             : "translate(0, 5px)"}
                           style="font-weight: 900;font-weight: 900;  font-size: .7rem; bottom: 0px; left: {xPos}px;  height: 5px; white-space: nowrap;"
                         >
-                          {selectedCountry} (Rang: 7)
+                          {selectedCountry} (Rank: {rank})
                         </div>
                         <div
                           class="absolute labels"
@@ -267,10 +265,11 @@
               class="arrow"
               style="position: absolute; left: 50%; bottom: 0; transform: translateX(-50%)"
             >
-              <button on:click={toggleContent}>{contentCollapsed ? "more" : "less"}</button
+              <button on:click={toggleContent}
+                >{contentCollapsed ? "more" : "less"}</button
               >
             </div>
-            {#if !contentCollapsed && contentLoaded} 
+            {#if !contentCollapsed && contentLoaded}
               <div
                 class="content-more"
                 style="padding: 1.4rem 0;"
